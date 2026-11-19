@@ -60,8 +60,8 @@ The application also runs a background scheduler (`APScheduler`) for periodic in
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/pandiyan07/Binanace-Future-algobot-v5-15min-candle-production-code
-   cd Binanace-Future-algobot-v5-15min-candle-production-code
+   git clone https://github.com/pandiyan07/Binanace-Futures-USDM-algobot-v5-15min-candle-production-code
+   cd Binanace-Futures-USDM-algobot-v5-15min-candle-production-code
    ```
 
 2. **Create and activate a virtual environment:**
