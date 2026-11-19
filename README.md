@@ -1,4 +1,4 @@
-# Binance Futures Algorithmic Trading Bot (BTCUSDT)
+# Binance Futures USDM Algorithmic Trading Bot (BTCUSDT)
 
 ## Table of Contents
 - [About The Project](#about-the-project)
